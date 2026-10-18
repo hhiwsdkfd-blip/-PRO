@@ -1,0 +1,7 @@
+{
+  "name": "رفيق المسلم",
+  "description": "تطبيق إسلامي شامل للقرآن الكريم، الأذكار، المسبحة الإلكترونية، التقويم الهجري، والورد اليومي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
